@@ -1,0 +1,94 @@
+{
+	// Place your web_development workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"scope": "javascript,typescript",
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+	"fooder": {
+		"scope": "html",
+		"prefix": "fooder",
+		"body": [
+			"<div class='finalbox'>",
+		"\t\t<div class='titlebox'>",
+		"\t\t<h1>MySite</h1>",
+		"\t</div>",
+		"\t<div class='lists'>",
+		"\t\t<ul>",
+		"\t\t\t<li id='firstitem'>About</li>",
+		"\t\t\t<li><a href='Contact-us.html'>Contact us</a></li>",
+		"\t\t\t<li><a href='index.html'>About us</a></li>",
+		"\t\t\t<li><a href=''>Careers</a></li>",
+		"\t\t\t<li><a href='services.html'>Services</a></li>",
+		"\t\t\t<li><a href=''>Developer info</a></li>",
+		"\t\t\t<li><a href=''>Information</a></li>",
+		"\t\t</ul>",
+		"\t\t<ul>",
+		"\t\t\t<li id='firstitem'>HELP</li>",
+		"\t\t\t<li><a href=''>Payments</a></li>",
+		"\t\t\t<li><a href=''>Shipping</a></li>",
+		"\t\t\t<li><a href=''>Cancellation & Returns</a></li>",
+		"\t\t\t<li><a href='help.html'>FAQ</a></li>",
+		"\t\t\t<li><a href=''>Report Infringemen</a>t</li>",
+		"\t\t</ul>",
+		"\t\t<ul>",
+		"\t\t\t<li id='firstitem'>POLICY</li>",
+		"\t\t\t<li><a href=''>Return policy</a></li>",
+		"\t\t\t<li><a href=''>Terms of use</a></li>",
+		"\t\t\t<li><a href=''>Security</a></li>",
+		"\t\t\t<li><a href=''>Privacy</a></li>",
+		"\t\t\t<li><a href=''>Sitemap</a></li>",
+		"\t\t</ul>",
+		"\t\t<ul>",
+		"\t\t\t<li id='firstitem'>SOCIAL</li>",
+		"\t\t\t<li><a href='contact-us.html'>Facebook</a></li>",
+		"\t\t\t<li><a href='contact-us.html'>Instagram</a></li>",
+		"\t\t\t<li><a href='contact-us.html'>Youtube</a></li>",
+		"\t\t\t<li><a href='contact-us.html'>Twitter</a></li>",
+		"\t\t</ul>",
+		"\t</div>",
+		"\t<div class='address'>",
+		"\t\t<ul>",
+		"\t\t\t<li id='firstitem'>Mail us:</li>",
+		"\t\t\t<li>MySite Internet Private Limited,",
+	
+		"\t\t\t\tBuildings Alyssa, Begonia &",
+	
+		"\t\t\t\tClove Embassy Tech Village,",
+	
+		"\t\t\t\tOuter Ring Road, Devarabeesanahalli Village,",
+	
+		"\t\t\t\tBengaluru, 560103,",
+	
+		"\t\t\t\tKarnataka, India</li>",
+		"\t\t</ul>",
+		"\t\t<ul>",
+		"\t\t\t<li id='firstitem'>Registered office address:</li>",
+		"\t\t\t<li>Flipkart Internet Private Limited,",
+	
+		"\t\t\t\tBuildings Alyssa, Begonia &",
+	
+		"\t\t\t\tClove Embassy Tech Village,",
+	
+		"\t\t\t\tOuter Ring Road, Devarabeesanahalli Village,",
+	
+		"\t\t\t\tBengaluru, 560103,",
+	
+		"\t\t\t\tKarnataka, India</li>",
+		"\t\t</ul>",
+		"\t</div>",
+		"</div>"
+		],
+
+	}
+}
